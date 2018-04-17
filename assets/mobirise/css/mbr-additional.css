@@ -1467,7 +1467,7 @@ body {
 }
 .cid-qPthV7ohHj {
   padding-top: 90px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
 .cid-qPthV7ohHj h2 {
@@ -1528,13 +1528,16 @@ body {
 .cid-qPthV7ohHj .mbr-text {
   color: #ffffff;
 }
+.cid-qPthV7ohHj H2 {
+  color: #55b4d4;
+}
 .cid-qPtj0Loxy7 {
   padding-top: 30px;
   padding-bottom: 90px;
   background-color: #232323;
 }
 .cid-qPtj0Loxy7 .mbr-text {
-  color: #f7ed4a;
+  color: #ffffff;
   text-align: left;
 }
 .cid-qPtj0Loxy7 h4 {
@@ -1552,17 +1555,9 @@ body {
   color: #ffffff;
   text-align: left;
 }
-.cid-qPtqedN34h {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/fujitsu-tcm213-134013-973x375.jpg");
-}
-.cid-qPtqedN34h H2 {
-  text-align: center;
-}
 .cid-qPtqu5qG0T {
-  padding-top: 90px;
-  padding-bottom: 15px;
+  padding-top: 75px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
 .cid-qPtqu5qG0T h2 {
@@ -1620,286 +1615,131 @@ body {
     font-size: 40px !important;
   }
 }
-.cid-qPtsPNp8Q8 {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+.cid-qPtqu5qG0T .mbr-text {
+  color: #ffffff;
 }
-.cid-qPtsPNp8Q8 .content-slider {
-  display: flex;
-  justify-content: center;
+.cid-qPtqu5qG0T H2 {
+  color: #149dcc;
 }
-.cid-qPtsPNp8Q8 .modal-body .close {
-  background: #1b1b1b;
+.cid-qPtAbuTgLT {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-color: #232323;
 }
-.cid-qPtsPNp8Q8 .modal-body .close span {
-  font-style: normal;
+.cid-qPtAbuTgLT .mbr-text {
+  color: #ffffff;
+  text-align: left;
 }
-.cid-qPtsPNp8Q8 .carousel-inner > .active,
-.cid-qPtsPNp8Q8 .carousel-inner > .next,
-.cid-qPtsPNp8Q8 .carousel-inner > .prev {
-  display: flex;
-}
-.cid-qPtsPNp8Q8 .carousel-control .icon-next,
-.cid-qPtsPNp8Q8 .carousel-control .icon-prev {
-  margin-top: -18px;
-  font-size: 40px;
-  line-height: 27px;
-}
-.cid-qPtsPNp8Q8 .carousel-control:hover {
-  background: #1b1b1b;
-  color: #fff;
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-qPtsPNp8Q8 .container .carousel-control {
-    margin-bottom: 0;
-  }
-  .cid-qPtsPNp8Q8 .content-slider-wrap {
-    width: 100%!important;
-  }
-}
-.cid-qPtsPNp8Q8 .boxed-slider {
-  position: relative;
-  padding: 93px 0;
-}
-.cid-qPtsPNp8Q8 .boxed-slider > div {
-  position: relative;
-}
-.cid-qPtsPNp8Q8 .container img {
-  width: 100%;
-}
-.cid-qPtsPNp8Q8 .container img + .row {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  right: 0;
-  -webkit-transform: translateY(-50%);
-  -moz-transform: translateY(-50%);
-  transform: translateY(-50%);
-  z-index: 2;
-}
-.cid-qPtsPNp8Q8 .mbr-section {
-  padding: 0;
-  background-attachment: scroll;
-}
-.cid-qPtsPNp8Q8 .mbr-table-cell {
-  padding: 0;
-}
-.cid-qPtsPNp8Q8 .container .carousel-indicators {
-  margin-bottom: 3px;
-}
-.cid-qPtsPNp8Q8 .carousel-caption {
-  top: 50%;
-  right: 0;
-  bottom: auto;
-  left: 0;
-  display: flex;
-  align-items: center;
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-.cid-qPtsPNp8Q8 .mbr-overlay {
-  z-index: 1;
-}
-.cid-qPtsPNp8Q8 .container-slide.container {
-  width: 100%;
-  min-height: 100vh;
-  padding: 0;
-}
-.cid-qPtsPNp8Q8 .carousel-item {
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  -o-transition: -o-transform 0.6s ease-in-out;
-  -webkit-transition: -webkit-transform 0.6s ease-in-out;
-  transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out, -o-transform 0.6s ease-in-out;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-  -webkit-perspective: 1000px;
-  perspective: 1000px;
-}
-@media (max-width: 576px) {
-  .cid-qPtsPNp8Q8 .carousel-item .container {
-    width: 100%;
-  }
-}
-.cid-qPtsPNp8Q8 .carousel-item-next.carousel-item-left,
-.cid-qPtsPNp8Q8 .carousel-item-prev.carousel-item-right {
-  -webkit-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
-}
-.cid-qPtsPNp8Q8 .active.carousel-item-right,
-.cid-qPtsPNp8Q8 .carousel-item-next {
-  -webkit-transform: translate3d(100%, 0, 0);
-  transform: translate3d(100%, 0, 0);
-}
-.cid-qPtsPNp8Q8 .active.carousel-item-left,
-.cid-qPtsPNp8Q8 .carousel-item-prev {
-  -webkit-transform: translate3d(-100%, 0, 0);
-  transform: translate3d(-100%, 0, 0);
-}
-.cid-qPtsPNp8Q8 .mbr-slider .carousel-control {
-  top: 50%;
-  width: 50px;
-  height: 50px;
-  margin-top: -1.5rem;
-  font-size: 35px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border: 2px solid #fff;
-  border-radius: 50%;
-  transition: all .3s;
-}
-.cid-qPtsPNp8Q8 .mbr-slider .carousel-control.carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-qPtsPNp8Q8 .mbr-slider .carousel-control.carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-qPtsPNp8Q8 .mbr-slider .carousel-control .mbr-iconfont {
-  font-size: 1.5rem;
-}
-@media (max-width: 767px) {
-  .cid-qPtsPNp8Q8 .mbr-slider .carousel-control {
-    top: auto;
-    bottom: 1rem;
-  }
-}
-.cid-qPtsPNp8Q8 .mbr-slider .carousel-indicators {
-  position: absolute;
-  bottom: 0;
-  margin-bottom: 1.5rem !important;
-}
-.cid-qPtsPNp8Q8 .mbr-slider .carousel-indicators li {
-  max-width: 15px;
-  height: 15px;
-  max-height: 15px;
-  margin: 3px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border: 2px solid #fff;
-  border-radius: 50%;
-  opacity: .5;
-  transition: all .3s;
-}
-.cid-qPtsPNp8Q8 .mbr-slider .carousel-indicators li.active,
-.cid-qPtsPNp8Q8 .mbr-slider .carousel-indicators li:hover {
-  opacity: .9;
-}
-.cid-qPtsPNp8Q8 .mbr-slider .carousel-indicators li::after,
-.cid-qPtsPNp8Q8 .mbr-slider .carousel-indicators li::before {
-  content: none;
-}
-.cid-qPtsPNp8Q8 .mbr-slider .carousel-indicators.ie-fix {
-  left: 50%;
-  display: block;
-  width: 60%;
-  margin-left: -30%;
+.cid-qPtAbuTgLT h4 {
   text-align: center;
 }
-@media (max-width: 576px) {
-  .cid-qPtsPNp8Q8 .mbr-slider .carousel-indicators {
-    display: none !important;
-  }
-}
-.cid-qPtsPNp8Q8 .mbr-slider > .container img {
-  width: 100%;
-}
-.cid-qPtsPNp8Q8 .mbr-slider > .container img + .row {
-  position: absolute;
-  top: 50%;
-  right: 0;
-  left: 0;
-  z-index: 2;
-  -moz-transform: translateY(-50%);
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-.cid-qPtsPNp8Q8 .mbr-slider > .container .carousel-indicators {
-  margin-bottom: 3px;
-}
-@media (max-width: 576px) {
-  .cid-qPtsPNp8Q8 .mbr-slider > .container .carousel-control {
-    margin-bottom: 0;
-  }
-}
-.cid-qPtsPNp8Q8 .mbr-slider .mbr-section {
-  padding: 0;
-  background-attachment: scroll;
-}
-.cid-qPtsPNp8Q8 .mbr-slider .mbr-table-cell {
-  padding: 0;
-}
-.cid-qPtsPNp8Q8 .carousel-item .container.container-slide {
-  position: initial;
-  width: auto;
-  min-height: 0;
-}
-.cid-qPtsPNp8Q8 .full-screen .slider-fullscreen-image {
-  min-height: 100vh;
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-size: cover;
-}
-.cid-qPtsPNp8Q8 .full-screen .slider-fullscreen-image.active {
-  display: -o-flex;
-}
-.cid-qPtsPNp8Q8 .full-screen .container {
-  width: auto;
-  padding-right: 0;
-  padding-left: 0;
-}
-.cid-qPtsPNp8Q8 .full-screen .carousel-item .container.container-slide {
-  width: 100%;
-  min-height: 100vh;
-  padding: 0;
-}
-.cid-qPtsPNp8Q8 .full-screen .carousel-item .container.container-slide img {
-  display: none;
-}
-.cid-qPtsPNp8Q8 .mbr-background-video-preview {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-}
-.cid-qPtsPNp8Q8 .mbr-overlay ~ .container-slide {
-  z-index: auto;
-}
-.cid-qPtsPNp8Q8 .mbr-slider.slide .container {
-  overflow: hidden;
-  padding: 0;
-}
-.cid-qPtsPNp8Q8 .carousel-inner {
-  height: 100%;
-}
-.cid-qPtsPNp8Q8 .slider-fullscreen-image {
-  height: 100%;
-  background: transparent !important;
-}
-.cid-qPtsPNp8Q8 .image_wrapper {
-  height: 590px;
-  width: 100%;
-  position: relative;
-  display: inline-block;
-}
-.cid-qPtsPNp8Q8 .image_wrapper img {
-  width: auto !important;
-  height: 100%;
-}
-.cid-qPtsPNp8Q8 .carousel-item .container-slide {
+.cid-qPtAbuTgLT p {
   text-align: center;
 }
-.cid-qPtsPNp8Q8 .content-slider-wrap {
-  width: 86%;
+.cid-qPtAbuTgLT .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
-.cid-qPtsUlMHu4 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+.cid-qPtAbuTgLT .card-title,
+.cid-qPtAbuTgLT .card-img {
+  color: #ffffff;
+  text-align: left;
 }
-.cid-qPtsUlMHu4 .mbr-section-subtitle {
+.cid-qPtBh2Wy3W {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-qPtBh2Wy3W h2 {
+  text-align: left;
+}
+.cid-qPtBh2Wy3W h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qPtBh2Wy3W p {
   color: #767676;
+  text-align: left;
+}
+.cid-qPtBh2Wy3W .aside-content {
+  flex-basis: 100%;
+}
+.cid-qPtBh2Wy3W .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qPtBh2Wy3W .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qPtBh2Wy3W .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qPtBh2Wy3W .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qPtBh2Wy3W .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qPtBh2Wy3W .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qPtBh2Wy3W .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qPtBh2Wy3W .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-qPtBh2Wy3W .mbr-text {
+  color: #ffffff;
+}
+.cid-qPtBh2Wy3W H2 {
+  color: #149dcc;
+}
+.cid-qPtBiCR90V {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-qPtBiCR90V .mbr-text {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-qPtBiCR90V h4 {
+  text-align: center;
+}
+.cid-qPtBiCR90V p {
+  text-align: center;
+}
+.cid-qPtBiCR90V .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qPtBiCR90V .card-title,
+.cid-qPtBiCR90V .card-img {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-qPtqedN34h {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/fujitsu-tcm213-134013-973x375.jpg");
+}
+.cid-qPtqedN34h H2 {
+  text-align: center;
 }
